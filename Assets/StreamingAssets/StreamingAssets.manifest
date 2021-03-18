@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2214460601
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hotfix_project.bundle
+      Dependencies: {}
