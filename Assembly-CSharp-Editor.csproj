@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8620781A-99E9-0585-849B-BBFDFD63F517}</ProjectGuid>
+    <ProjectGuid>{BA42DE1E-F7BB-EE86-E4D8-A63E3B3F5F48}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -64,49 +64,49 @@
      <Compile Include="Assets\Samples\ILRuntime\1.6.6\Demo\Editor\ILRuntimeMenu.cs" />
      <Compile Include="Assets\Samples\ILRuntime\1.6.6\Demo\Scripts\Examples\08_MonoBehaviour\Editor\MonoBehaviourAdapterEditor.cs" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="ILRuntime">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/ILRuntime.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/ILRuntime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.EditorCoroutines.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.MemoryProfiler">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.MemoryProfiler.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.MemoryProfiler.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.MemoryProfiler.Editor">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/ScriptAssemblies/Unity.MemoryProfiler.Editor.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/ScriptAssemblies/Unity.MemoryProfiler.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.22f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -301,16 +301,16 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.22f1c1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="ILRuntime.Mono.Cecil.Pdb">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntime.Mono.Cecil.Pdb.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntime.Mono.Cecil.Pdb.dll</HintPath>
  </Reference>
  <Reference Include="ILRuntime.Mono.Cecil.Mdb">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntime.Mono.Cecil.Mdb.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntime.Mono.Cecil.Mdb.dll</HintPath>
  </Reference>
  <Reference Include="ILRuntim.Mono.Cecil">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntim.Mono.Cecil.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/PackageCache/com.ourpalm.ilruntime@1.6.6/Plugins/ILRuntim.Mono.Cecil.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>/Users/UnityProject/ILRumtimeDemo/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>/Users/UnityProject/ILRuntimeDemo/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.22f1c1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -675,7 +675,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{BBCBD500-40BC-7481-2162-FB577277773F}</Project>
+      <Project>{B3981B18-0DCC-FDFD-1912-B65963EE00D0}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
